@@ -44,3 +44,8 @@ The project demonstrates seamless communication between different layers of a mo
 │   └── database_schema.sql     # MySQL Table Setup
 ├── requirements.txt            # Python Dependencies
 └── README.md                   # Project Documentation
+
+### 📸 Preview
+<img width="601" height="803" alt="Screenshot from 2026-03-17 20-55-11" src="https://github.com/user-attachments/assets/31f2d439-8667-4c6e-91a5-88b3b6fccc2c" />
+
+
